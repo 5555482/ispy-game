@@ -24,4 +24,14 @@ I want to find our location on google map
 So I can find on the map which place is closer
 ```
 
+###To setup:
+```
+$ ionic upload
+```
+
+###To run tests:
+```
+$ protractor protractor.conf.js
+```
+
 
