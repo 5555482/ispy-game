@@ -1,10 +1,10 @@
 # ISpy-Game
 
-![Picture 1](Layers/view1.png)
-![Picture 2](Layers/view2.png)
-![Picture 3](Layers/view3.png)
-![Picture 4](Layers/view4.png)
-![Picture 5](Layers/view4.png)
+![Picture 1](www/css/IMG_4244.PNG)
+![Picture 2](www/css/IMG_4245.PNG)
+![Picture 3](www/css/IMG_4246.PNG)
+![Picture 4](www/css/IMG_4247.PNG)
+![Picture 5](www/css/IMG_4248.PNG)
 Here are the core user stories:
 
 ```
